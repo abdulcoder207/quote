@@ -1,0 +1,84 @@
+{
+  "motivations": [
+    {
+      "id": 1,
+      "quote": "Kesuksesan adalah kemampuan untuk melangkah dari satu kegagalan ke kegagalan berikutnya tanpa kehilangan antusiasme.",
+      "author": {
+        "name": "Winston Churchill",
+        "birth": "30 November 1874"
+      }
+    },
+    {
+      "id": 2,
+      "quote": "Jangan menunggu kesempatan. Ciptakanlah kesempatan itu.",
+      "author": {
+        "name": "George Bernard Shaw",
+        "birth": "26 Juli 1856"
+      }
+    },
+    {
+      "id": 3,
+      "quote": "Kegagalan hanyalah kesempatan untuk memulai lagi dengan lebih cerdas.",
+      "author": {
+        "name": "Henry Ford",
+        "birth": "30 Juli 1863"
+      }
+    },
+    {
+      "id": 4,
+      "quote": "Lakukan sesuatu hari ini yang akan membuat dirimu berterima kasih di masa depan.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 5,
+      "quote": "Satu-satunya cara untuk melakukan pekerjaan yang hebat adalah mencintai apa yang Anda lakukan.",
+      "author": {
+        "name": "Steve Jobs",
+        "birth": "24 Februari 1955"
+      }
+    },
+    {
+      "id": 6,
+      "quote": "Sukses bukanlah kunci kebahagiaan. Kebahagiaanlah kunci sukses. Jika Anda mencintai apa yang Anda lakukan, Anda akan sukses.",
+      "author": {
+        "name": "Albert Schweitzer",
+        "birth": "14 Januari 1875"
+      }
+    },
+    {
+      "id": 7,
+      "quote": "Percayalah pada dirimu sendiri dan semua yang kamu lakukan. Ketahuilah bahwa tidak ada yang mustahil jika kamu memiliki tekad dan keyakinan.",
+      "author": {
+        "name": "Christian D. Larson",
+        "birth": "1874"
+      }
+    },
+    {
+      "id": 8,
+      "quote": "Keberanian bukanlah tidak memiliki ketakutan, tetapi keberanian adalah menang atas ketakutan itu.",
+      "author": {
+        "name": "Nelson Mandela",
+        "birth": "18 Juli 1918"
+      }
+    },
+    {
+      "id": 9,
+      "quote": "Jangan biarkan kemarin mengambil terlalu banyak dari hari ini.",
+      "author": {
+        "name": "Will Rogers",
+        "birth": "4 November 1879"
+      }
+    },
+    {
+      "id": 10,
+      "quote": "Hidup adalah 10% apa yang terjadi pada kita dan 90% bagaimana kita meresponsnya.",
+      "author": {
+        "name": "Charles R. Swindoll",
+        "birth": "18 Oktober 1934"
+      }
+    }
+  ]
+}
