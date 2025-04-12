@@ -79,6 +79,166 @@
         "name": "Charles R. Swindoll",
         "birth": "18 Oktober 1934"
       }
+    },
+    {
+      "id": 11,
+      "quote": "Kesuksesan adalah kemampuan untuk melangkah dari satu kegagalan ke kegagalan berikutnya tanpa kehilangan antusiasme.",
+      "author": {
+        "name": "Winston Churchill",
+        "birth": "30 November 1874"
+      }
+    },
+    {
+      "id": 12,
+      "quote": "Keberanian bukanlah ketiadaan rasa takut, tetapi kemenangan atasnya.",
+      "author": {
+        "name": "Nelson Mandela",
+        "birth": "18 Juli 1918"
+      }
+    },
+    {
+      "id": 13,
+      "quote": "Jika kamu ingin hidup bahagia, ikatlah pada tujuan, bukan pada orang atau benda.",
+      "author": {
+        "name": "Albert Einstein",
+        "birth": "14 Maret 1879"
+      }
+    },
+    {
+      "id": 14,
+      "quote": "Kesuksesan sejati adalah ketika kita bisa bangkit setiap kali kita jatuh.",
+      "author": {
+        "name": "Confucius",
+        "birth": "28 September 551 SM"
+      }
+    },
+    {
+      "id": 15,
+      "quote": "Masa depan tergantung pada apa yang kita lakukan hari ini.",
+      "author": {
+        "name": "Mahatma Gandhi",
+        "birth": "2 Oktober 1869"
+      }
+    },
+    {
+      "id": 16,
+      "quote": "Kebahagiaan bukanlah sesuatu yang sudah jadi. Itu berasal dari tindakanmu sendiri.",
+      "author": {
+        "name": "Dalai Lama",
+        "birth": "6 Juli 1935"
+      }
+    },
+    {
+      "id": 17,
+      "quote": "Lakukan apa yang bisa kamu lakukan, dengan apa yang kamu punya, di tempat kamu berada.",
+      "author": {
+        "name": "Theodore Roosevelt",
+        "birth": "27 Oktober 1858"
+      }
+    },
+    {
+      "id": 18,
+      "quote": "Kehebatan sejati adalah mampu tetap berdiri saat orang lain menyerah.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 19,
+      "quote": "Bermimpilah setinggi langit. Jika kamu jatuh, kamu akan jatuh di antara bintang-bintang.",
+      "author": {
+        "name": "Soekarno",
+        "birth": "6 Juni 1901"
+      }
+    },
+    {
+      "id":20,
+      "quote": "Keberhasilan bukanlah milik orang yang pintar, tapi milik mereka yang mau berusaha.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 21,
+      "quote": "Jangan pernah menyerah pada impianmu. Teruslah berjuang sampai kamu mencapainya.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 22,
+      "quote": "Hidup ini singkat. Jangan sia-siakan waktu untuk menjalani hidup orang lain.",
+      "author": {
+        "name": "Steve Jobs",
+        "birth": "24 Februari 1955"
+      }
+    },
+    {
+      "id": 23,
+      "quote": "Kamu tidak akan pernah tahu seberapa kuat kamu sampai menjadi kuat adalah satu-satunya pilihan yang kamu miliki.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 24,
+      "quote": "Jangan menunggu waktu yang tepat. Buatlah waktu itu menjadi tepat.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 25,
+      "quote": "Setiap hari adalah kesempatan baru untuk memperbaiki diri.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 26,
+      "quote": "Kamu tidak perlu menjadi hebat untuk memulai, tetapi kamu harus memulai untuk menjadi hebat.",
+      "author": {
+        "name": "Zig Ziglar",
+        "birth": "6 November 1926"
+      }
+    },
+    {
+      "id": 27,
+      "quote": "Hidupmu adalah hasil dari pilihanmu. Pilihlah dengan bijak.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 28,
+      "quote": "Jangan pernah meremehkan kekuatan tindakan kecil yang dilakukan dengan penuh cinta.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 29,
+      "quote": "Kamu adalah arsitek dari masa depanmu sendiri.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
+    },
+    {
+      "id": 30,
+      "quote": "Setiap langkah kecil yang kamu ambil adalah langkah menuju kesuksesan.",
+      "author": {
+        "name": "Anonymous",
+        "birth": "-"
+      }
     }
   ]
 }
