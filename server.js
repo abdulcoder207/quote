@@ -7,22 +7,24 @@ const PORT = 3000;
 app.use(express.json());
 app.use(cors());
 
-app.get('/',(req,res) =>{
-    res.send("server berjalan normal langsung Ketik /api pada bagian url");
+app.get('/', (req, res) => {
+    const lang = req.headers['accept-language'];
+    console.log(lang);
+    res.send("server berjalan normal langsung Ketik /api pada bagian url " + lang);
 });
 app.get('/api', (req, res) => {
-    fs.readFile(__dirname + '/motivasi.json', 'utf8', (err, data) =>{
-        if(err){
-            return res.status(500).json({error:"gagal baca file"});
+    fs.readFile(__dirname + '/motivasi.json', 'utf8', (err, data) => {
+        if (err) {
+            return res.status(500).json({ error: "gagal baca file" });
         };
-        try{
+        try {
             const quotes = JSON.parse(data);
             console.log("data json: ", quotes);
             // res.setHeader('Content-Type', 'application/json');
             res.json(quotes);
-        }catch(parseError){
+        } catch (parseError) {
             console.log("Error parsing ", parseError);
-            res.status(500).json({error: "format JSON tidak valid"});
+            res.status(500).json({ error: "format JSON tidak valid" });
         };
     });
 });
